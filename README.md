@@ -4,7 +4,7 @@ Love Web Design 💻 and playing video games🎮
 I have always enjoyed making my content to use on the web. I acquired my first skills in HTML when I was a teenager, and I also started using Photoshop to edit digital images. <br><br>
 
 
-Following online courses on YouTube and Udemy, I learned the basics of Web Development languages and Python. In a short time, I managed to make my first web page from scratch, and soon after I started practising with Bootstrap. I also have experience with Figma and Adobe XD creating wireframes and mock-up applications.
+Following online courses on YouTube and Udemy, I learned the basics of Web Development languages. In a short time, I managed to make my first web page from scratch, and soon after I started practising with Bootstrap. I also have experience with Figma and Adobe XD creating wireframes and mock-up applications.
 
 I am currently studying User Experience Design to take an active part in the Web Design and UX/UI industry in the future.📚
 <hr>
